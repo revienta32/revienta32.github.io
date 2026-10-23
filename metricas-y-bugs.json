@@ -88,11 +88,12 @@
     "pptxChamN5dd",
     "Xp1tztzoEoWF",
     "LAJE0xCJf6QZ",
-    "uHY0dzFxHrN9"
+    "uHY0dzFxHrN9",
+    "7ZEqXun0bMrp"
   ],
-  "totalPageviews": 87,
+  "totalPageviews": 88,
   "pageviewsByPage": {
-    "index.html": 15,
+    "index.html": 16,
     "verifactu-studio.html": 8,
     "clean-ai-studio.html": 15,
     "directorio-guias.html": 25,
@@ -111,5 +112,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-23T10:56:56.406Z"
+  "lastDoctorRun": "2026-10-23T16:22:46.220Z"
 }
