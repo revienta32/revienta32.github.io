@@ -205,13 +205,19 @@
     "SUbuIWItFULe",
     "zu2y7th5r6XG",
     "uJ6OnBwrgOQ4",
-    "rcTnfJ7uAn3j"
+    "rcTnfJ7uAn3j",
+    "jSlNc5g8jg5h",
+    "2FuQXNseI7fz",
+    "trZemWdAJpZ7",
+    "f0VAaGpM1MJn",
+    "R0Xebt5Orbmw",
+    "B8NI1WwCBrya"
   ],
-  "totalPageviews": 201,
+  "totalPageviews": 206,
   "pageviewsByPage": {
     "index.html": 22,
     "verifactu-studio.html": 8,
-    "clean-ai-studio.html": 28,
+    "clean-ai-studio.html": 29,
     "directorio-guias.html": 25,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 5,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 3,
@@ -224,12 +230,12 @@
     "c2pa-metadata-remover-ai-scrubber.html": 4,
     "detectar-y-eliminar-espacios-invisibles-chatgpt-u202f.html": 4,
     "humanizar-texto-ia-indetectable-turnitin-gratis.html": 4,
-    "humanize-ai-text-bypass-turnitin-gptzero-free.html": 22,
+    "humanize-ai-text-bypass-turnitin-gptzero-free.html": 24,
     "strip-comfyui-midjourney-dalle-metadata-png-jpeg.html": 9,
     "midjourney-v6-flux-c2pa-metadata-remover.html": 6,
     "adobe-stock-shutterstock-c2pa-ai-rejection-fix.html": 5,
     "remove-google-synthid-ai-pixel-watermark.html": 3,
-    "exif-camera-injector-iphone-sony-ai-photos.html": 10
+    "exif-camera-injector-iphone-sony-ai-photos.html": 12
   },
   "affiliateClicks": {
     "revolut_referral": 0,
@@ -239,5 +245,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-26T12:09:58.511Z"
+  "lastDoctorRun": "2026-10-26T22:14:13.753Z"
 }
