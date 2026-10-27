@@ -216,12 +216,20 @@
     "yVgLN2ncRh7S",
     "iSz7zK6BEE08",
     "9m7PErjDEsNo",
-    "sUKL49l2b3Zk"
+    "sUKL49l2b3Zk",
+    "731koG9z5Y6f",
+    "dq9LSA7pNGwm",
+    "hkztDrvwtgW8",
+    "wCDTwpkSXQjX",
+    "BQ9wg42MWWTe",
+    "k6Vfu5cJ4luc",
+    "9dV7BVWImqWA",
+    "s6fkmrJNrSJV"
   ],
-  "totalPageviews": 211,
+  "totalPageviews": 215,
   "pageviewsByPage": {
-    "index.html": 27,
-    "verifactu-studio.html": 8,
+    "index.html": 29,
+    "verifactu-studio.html": 9,
     "clean-ai-studio.html": 29,
     "directorio-guias.html": 25,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 5,
@@ -240,7 +248,8 @@
     "midjourney-v6-flux-c2pa-metadata-remover.html": 6,
     "adobe-stock-shutterstock-c2pa-ai-rejection-fix.html": 5,
     "remove-google-synthid-ai-pixel-watermark.html": 3,
-    "exif-camera-injector-iphone-sony-ai-photos.html": 12
+    "exif-camera-injector-iphone-sony-ai-photos.html": 12,
+    "clean-ai-studio": 1
   },
   "affiliateClicks": {
     "revolut_referral": 0,
@@ -250,5 +259,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-27T11:31:54.265Z"
+  "lastDoctorRun": "2026-10-27T17:22:27.522Z"
 }
