@@ -247,13 +247,25 @@
     "Xl5nitUcYHk1",
     "Z9i6CvMUieOf",
     "N2m2V4xULBd8",
-    "AGqNEac4pNje"
+    "AGqNEac4pNje",
+    "nbiUhZgRC7b7",
+    "St9oLyHwBfbB",
+    "x3gSr6dE0q4C",
+    "SalisnOm1ihX",
+    "qbvseObB2XQX",
+    "WurmCe4M6CmM",
+    "u2g9GY95iFHV",
+    "Ipdkh73GOhgN",
+    "eyM2hwV0Lvqk",
+    "1M6VJ5gO22Cd",
+    "RYlVrgQkupTC",
+    "I6jWKSZlTcce"
   ],
-  "totalPageviews": 229,
+  "totalPageviews": 241,
   "pageviewsByPage": {
-    "index.html": 39,
+    "index.html": 40,
     "verifactu-studio.html": 9,
-    "clean-ai-studio.html": 33,
+    "clean-ai-studio.html": 44,
     "directorio-guias.html": 25,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 5,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 3,
@@ -282,5 +294,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-29T12:12:04.708Z"
+  "lastDoctorRun": "2026-10-29T22:23:19.942Z"
 }
