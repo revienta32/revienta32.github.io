@@ -285,11 +285,20 @@
     "TxML57QBi8Ij",
     "0NcokoiJ9ns2",
     "41PDCs79fw4n",
-    "DJtxDdmzsW5n"
+    "DJtxDdmzsW5n",
+    "iNcn4tqGKwPA",
+    "29gTyFQ9qXZ1",
+    "3C62KA4vCF6r",
+    "2Oj5TzF4cKnM",
+    "VwuIVjT8YcZM",
+    "3ZywGjDrv0PA",
+    "lbzrF93N14y1",
+    "LVJmRZKpby3D",
+    "2Oew39ehXVh3"
   ],
-  "totalPageviews": 264,
+  "totalPageviews": 273,
   "pageviewsByPage": {
-    "index.html": 57,
+    "index.html": 66,
     "verifactu-studio.html": 9,
     "clean-ai-studio.html": 48,
     "directorio-guias.html": 25,
@@ -323,5 +332,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-30T12:02:28.545Z"
+  "lastDoctorRun": "2026-10-30T21:53:55.140Z"
 }

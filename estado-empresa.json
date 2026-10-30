@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-17T10:55:03.656Z",
-  "lastEvaluation": "2026-10-30T12:02:28.804Z",
+  "lastEvaluation": "2026-10-30T21:53:55.386Z",
   "activeProducts": [
     {
       "id": "finanzas-suite",
@@ -69,7 +69,7 @@
       "id": "finanzas-suite",
       "file": "index.html",
       "sector": "FinTech / Ahorro e Inversión",
-      "views": 57
+      "views": 66
     },
     {
       "id": "gestor-renta-ia",
