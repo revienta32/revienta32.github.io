@@ -260,13 +260,38 @@
     "1M6VJ5gO22Cd",
     "RYlVrgQkupTC",
     "I6jWKSZlTcce",
-    "lxjLPIqLw3yE"
+    "lxjLPIqLw3yE",
+    "fK3O48TRjwqe",
+    "TBuk99r0VjhY",
+    "NABzu1MPc6H7",
+    "JsKsHZZhj9wL",
+    "EcvcvCKPezhg",
+    "Tvbc2A9DVeFB",
+    "Eis2YlLWI8Cp",
+    "pn3pMlmqmLyl",
+    "B23J5gLfWQdq",
+    "25IUFkDasHJT",
+    "yjihuQAIRmZu",
+    "Iu6ItXW5mB79",
+    "wlzap97HxOvd",
+    "mIAN4H0Cqy5P",
+    "xn7PIKDpY4L9",
+    "dSAptRWjDrx8",
+    "NwFrJVkyxYdP",
+    "JL7MortwbAoN",
+    "6Hn1QWkcAkOy",
+    "RiLSBiiltfsR",
+    "5h3UEOBasMXk",
+    "TxML57QBi8Ij",
+    "0NcokoiJ9ns2",
+    "41PDCs79fw4n",
+    "DJtxDdmzsW5n"
   ],
-  "totalPageviews": 242,
+  "totalPageviews": 264,
   "pageviewsByPage": {
-    "index.html": 40,
+    "index.html": 57,
     "verifactu-studio.html": 9,
-    "clean-ai-studio.html": 45,
+    "clean-ai-studio.html": 48,
     "directorio-guias.html": 25,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 5,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 3,
@@ -285,15 +310,18 @@
     "adobe-stock-shutterstock-c2pa-ai-rejection-fix.html": 5,
     "remove-google-synthid-ai-pixel-watermark.html": 3,
     "exif-camera-injector-iphone-sony-ai-photos.html": 12,
-    "clean-ai-studio": 1
+    "clean-ai-studio": 1,
+    "index.html#ce": 1,
+    "index.html#undefined": 1
   },
   "affiliateClicks": {
     "revolut_referral": 0,
     "bitget_referral": 0,
-    "revolut_me_card": 0
+    "revolut_me_card": 0,
+    "stripe_checkout": 2
   },
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-30T04:09:10.951Z"
+  "lastDoctorRun": "2026-10-30T12:02:28.545Z"
 }
