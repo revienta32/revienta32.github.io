@@ -296,11 +296,25 @@
     "LVJmRZKpby3D",
     "2Oew39ehXVh3",
     "hsWOsu2iv6Gl",
-    "0zfOUr2VbY0g"
+    "0zfOUr2VbY0g",
+    "PLbs7KUk8HtH",
+    "Bqzr4DMVrE94",
+    "Oe1vpsNa9pR9",
+    "1JyyHyXZvXFg",
+    "ndfJHjwvGpOh",
+    "SIhrljrIj7qL",
+    "HNgZtUpEcGPw",
+    "BxX52ayjrdrE",
+    "uoyPH5joK4Nl",
+    "yDojQM89fAGP",
+    "89cLlIHDsX9z",
+    "qHMqvpV58lgB",
+    "yFApTUitdfqh",
+    "cMl7a8UyfIoi"
   ],
-  "totalPageviews": 275,
+  "totalPageviews": 288,
   "pageviewsByPage": {
-    "index.html": 68,
+    "index.html": 80,
     "verifactu-studio.html": 9,
     "clean-ai-studio.html": 48,
     "directorio-guias.html": 25,
@@ -313,7 +327,7 @@
     "ki-metadaten-c2pa-entfernen-kostenlos.html": 15,
     "quitar-metadatos-ia-c2pa-exif-fotos-texto.html": 4,
     "c2pa-metadata-remover-ai-scrubber.html": 4,
-    "detectar-y-eliminar-espacios-invisibles-chatgpt-u202f.html": 4,
+    "detectar-y-eliminar-espacios-invisibles-chatgpt-u202f.html": 5,
     "humanizar-texto-ia-indetectable-turnitin-gratis.html": 4,
     "humanize-ai-text-bypass-turnitin-gptzero-free.html": 24,
     "strip-comfyui-midjourney-dalle-metadata-png-jpeg.html": 9,
@@ -329,10 +343,10 @@
     "revolut_referral": 0,
     "bitget_referral": 0,
     "revolut_me_card": 0,
-    "stripe_checkout": 2
+    "stripe_checkout": 3
   },
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-10-31T03:51:57.615Z"
+  "lastDoctorRun": "2026-10-31T11:38:01.256Z"
 }
