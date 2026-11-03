@@ -334,15 +334,17 @@
     "updOd8G7pVN4",
     "ZSy3i2PJOxdd",
     "WWqx9JgNHPSk",
-    "GMfPyWHten5J"
+    "GMfPyWHten5J",
+    "Rd2NHMMzMoSN",
+    "U7u95WVDpY6w"
   ],
-  "totalPageviews": 312,
+  "totalPageviews": 314,
   "pageviewsByPage": {
-    "index.html": 82,
+    "index.html": 83,
     "verifactu-studio.html": 9,
     "clean-ai-studio.html": 51,
     "directorio-guias.html": 26,
-    "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 5,
+    "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 6,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 5,
     "remove-chatgpt-watermarks-invisible-characters-u202f.html": 6,
     "e-rechnung-pflicht-deutschland-xrechnung-zugferd-generator.html": 6,
@@ -378,5 +380,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-03T00:26:21.247Z"
+  "lastDoctorRun": "2026-11-03T13:32:10.289Z"
 }
