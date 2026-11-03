@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-17T10:55:03.656Z",
-  "lastEvaluation": "2026-11-02T14:39:06.735Z",
+  "lastEvaluation": "2026-11-03T00:26:21.590Z",
   "activeProducts": [
     {
       "id": "finanzas-suite",
@@ -75,7 +75,7 @@
       "id": "gestor-renta-ia",
       "file": "gestor-renta-ia.html",
       "sector": "TaxTech / IRPF Modelo 100",
-      "views": 0
+      "views": 1
     },
     {
       "id": "reclamaciones-ia",
