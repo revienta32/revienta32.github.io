@@ -367,13 +367,15 @@
     "wNjpbDX9fBkO",
     "tk7zyfmrV3Bf",
     "s4Hev7VLfevp",
-    "hzfhkR3dShZg"
+    "hzfhkR3dShZg",
+    "E0MxkPD7N95K",
+    "An4B4CvalW7H"
   ],
-  "totalPageviews": 345,
+  "totalPageviews": 347,
   "pageviewsByPage": {
     "index.html": 84,
     "verifactu-studio.html": 10,
-    "clean-ai-studio.html": 69,
+    "clean-ai-studio.html": 70,
     "directorio-guias.html": 26,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 6,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 7,
@@ -387,7 +389,7 @@
     "detectar-y-eliminar-espacios-invisibles-chatgpt-u202f.html": 5,
     "humanizar-texto-ia-indetectable-turnitin-gratis.html": 6,
     "humanize-ai-text-bypass-turnitin-gptzero-free.html": 31,
-    "strip-comfyui-midjourney-dalle-metadata-png-jpeg.html": 9,
+    "strip-comfyui-midjourney-dalle-metadata-png-jpeg.html": 10,
     "midjourney-v6-flux-c2pa-metadata-remover.html": 7,
     "adobe-stock-shutterstock-c2pa-ai-rejection-fix.html": 5,
     "remove-google-synthid-ai-pixel-watermark.html": 4,
@@ -411,5 +413,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-14T12:53:53.918Z"
+  "lastDoctorRun": "2026-11-14T21:55:34.268Z"
 }
