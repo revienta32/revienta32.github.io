@@ -2,7 +2,7 @@
 
 Hilos activos detectados **hoy mismo** en Reddit y Hacker News sobre detección de IA, C2PA, marcas de agua de ChatGPT, facturación electrónica o reclamaciones, con la **respuesta exacta lista para copiar y pegar**:
 
-1. **[r/ChatGPT]** [DEZO: Episode 2 | ESCAPE — An 80s Sci-Fi Action Film](https://www.reddit.com/r/ChatGPT/comments/1xxg69a/dezo_episode_2_escape_an_80s_scifi_action_film/)
+1. **[r/ChatGPT]** [using it to build lesson slides anyone have a workflow that saves time?](https://www.reddit.com/r/ChatGPT/comments/1xxn69x/using_it_to_build_lesson_slides_anyone_have_a/)
    - **Herramienta:** `https://revienta32.github.io/finanzasmart-autopilot/clean-ai-studio.html?lang=en`
    - **Respuesta lista para copiar:**
      > You can inspect and strip hidden C2PA/JUMBF headers, ComfyUI PNG workflow chunks, EXIF data, and invisible LLM Unicode spaces (U+202F / U+200B) 100% locally in your browser (zero server upload) using PureAI Studio: https://revienta32.github.io/finanzasmart-autopilot/clean-ai-studio.html?lang=en

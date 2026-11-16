@@ -380,13 +380,15 @@
     "QzXLZsJqlVaV",
     "2bU8vLPWnuVp",
     "s8NzbsrwiDvs",
-    "G3cSh9q8fPI6"
+    "G3cSh9q8fPI6",
+    "GwFV2Nb2Kvxt",
+    "osjMn5wGuwMA"
   ],
-  "totalPageviews": 358,
+  "totalPageviews": 360,
   "pageviewsByPage": {
     "index.html": 84,
     "verifactu-studio.html": 10,
-    "clean-ai-studio.html": 77,
+    "clean-ai-studio.html": 79,
     "directorio-guias.html": 26,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 6,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 7,
@@ -424,5 +426,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-16T04:32:26.167Z"
+  "lastDoctorRun": "2026-11-16T14:37:27.191Z"
 }
