@@ -403,17 +403,22 @@
     "Hwk8iifQ6Dks",
     "TqivoVJ4KVM0",
     "LBBrejVYzL30",
-    "ktSZHzlwRYXy"
+    "ktSZHzlwRYXy",
+    "R8axIPTD8geW",
+    "K5tTzPh3pC5n",
+    "GI3Z7luWQnJW",
+    "RzY4JlPO9k7x",
+    "5N5HtyyCq3co"
   ],
-  "totalPageviews": 381,
+  "totalPageviews": 386,
   "pageviewsByPage": {
-    "index.html": 89,
+    "index.html": 90,
     "verifactu-studio.html": 10,
-    "clean-ai-studio.html": 89,
+    "clean-ai-studio.html": 90,
     "directorio-guias.html": 26,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 6,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 7,
-    "remove-chatgpt-watermarks-invisible-characters-u202f.html": 19,
+    "remove-chatgpt-watermarks-invisible-characters-u202f.html": 21,
     "e-rechnung-pflicht-deutschland-xrechnung-zugferd-generator.html": 6,
     "quitar-etiqueta-hecho-con-ia-instagram-tiktok-fotos.html": 8,
     "humanizar-texto-chatgpt-remover-marcas-ia-gratis.html": 7,
@@ -422,7 +427,7 @@
     "c2pa-metadata-remover-ai-scrubber.html": 4,
     "detectar-y-eliminar-espacios-invisibles-chatgpt-u202f.html": 5,
     "humanizar-texto-ia-indetectable-turnitin-gratis.html": 6,
-    "humanize-ai-text-bypass-turnitin-gptzero-free.html": 32,
+    "humanize-ai-text-bypass-turnitin-gptzero-free.html": 33,
     "strip-comfyui-midjourney-dalle-metadata-png-jpeg.html": 10,
     "midjourney-v6-flux-c2pa-metadata-remover.html": 7,
     "adobe-stock-shutterstock-c2pa-ai-rejection-fix.html": 5,
@@ -447,5 +452,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-22T13:57:58.443Z"
+  "lastDoctorRun": "2026-11-22T23:09:56.902Z"
 }
