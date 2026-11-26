@@ -1,6 +1,6 @@
 {
   "startedAt": "2026-10-17T10:55:03.656Z",
-  "lastEvaluation": "2026-11-25T16:43:12.655Z",
+  "lastEvaluation": "2026-11-26T01:29:23.486Z",
   "activeProducts": [
     {
       "id": "finanzas-suite",
@@ -50,8 +50,8 @@
     "recurrir multa ayuntamiento madrid",
     "recurrir multa trafico",
     "simulador declaracion renta 2026",
+    "simulador declaracion renta 2026 bizkaia",
     "simulador declaración renta 2025",
-    "simulador declaracion renta 2027",
     "simulador declaracion renta navarra"
   ],
   "pivotsHistory": [
@@ -69,13 +69,13 @@
       "id": "finanzas-suite",
       "file": "index.html",
       "sector": "FinTech / Ahorro e Inversión",
-      "views": 91
+      "views": 92
     },
     {
       "id": "gestor-renta-ia",
       "file": "gestor-renta-ia.html",
       "sector": "TaxTech / IRPF Modelo 100",
-      "views": 1
+      "views": 3
     },
     {
       "id": "reclamaciones-ia",

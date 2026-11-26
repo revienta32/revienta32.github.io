@@ -416,11 +416,14 @@
     "HWK7X8NMzMmq",
     "pChSPfwpcUQq",
     "hcExARVMFeN2",
-    "WskfwoFfshd3"
+    "WskfwoFfshd3",
+    "gEzVjZMIpbtj",
+    "UNbOAA1lflin",
+    "kJzEeKByt85q"
   ],
-  "totalPageviews": 394,
+  "totalPageviews": 397,
   "pageviewsByPage": {
-    "index.html": 91,
+    "index.html": 92,
     "verifactu-studio.html": 10,
     "clean-ai-studio.html": 95,
     "directorio-guias.html": 26,
@@ -449,7 +452,7 @@
     "free-c2pa-chatgpt-watermark-inspector-online.html": 1,
     "humaniser-texte-ia-chatgpt-indetectable-gratuit.html": 1,
     "ai-influencer-agency-anti-shadowban-instagram-fanvue-c2pa.html": 1,
-    "gestor-renta-ia.html": 1
+    "gestor-renta-ia.html": 3
   },
   "affiliateClicks": {
     "revolut_referral": 0,
@@ -460,5 +463,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-25T16:43:12.455Z"
+  "lastDoctorRun": "2026-11-26T01:29:23.214Z"
 }
