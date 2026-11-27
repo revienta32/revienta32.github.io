@@ -428,14 +428,18 @@
     "dYXwIg2EX0U8",
     "OjA1y4HH0Not",
     "PGb0SmnFmiZz",
-    "5yKjPR3p2IXx"
+    "5yKjPR3p2IXx",
+    "5qNLj47ICgqP",
+    "KoMYUx7wzRNm",
+    "RUKyc451NqVv",
+    "onYdTttyx8it"
   ],
-  "totalPageviews": 406,
+  "totalPageviews": 410,
   "pageviewsByPage": {
     "index.html": 92,
-    "verifactu-studio.html": 10,
-    "clean-ai-studio.html": 102,
-    "directorio-guias.html": 27,
+    "verifactu-studio.html": 11,
+    "clean-ai-studio.html": 104,
+    "directorio-guias.html": 28,
     "ki-text-vermenschlichen-chatgpt-wasserzeichen-entfernen.html": 6,
     "remove-made-with-ai-label-instagram-tiktok-c2pa.html": 7,
     "remove-chatgpt-watermarks-invisible-characters-u202f.html": 23,
@@ -472,5 +476,5 @@
   "jsErrors": [],
   "userBugReports": [],
   "autoHeals": [],
-  "lastDoctorRun": "2026-11-26T16:18:03.473Z"
+  "lastDoctorRun": "2026-11-27T01:26:26.101Z"
 }
